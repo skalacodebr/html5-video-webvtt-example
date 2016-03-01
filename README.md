@@ -1,6 +1,6 @@
 # HTML5 Video WebVTT Example
 
-Sample HTML5 code that makes use of a WebVTT file to add subtitles to a video
+Sample HTML5 code that makes use of a [WebVTT](https://w3c.github.io/webvtt/) file to add subtitles to a video.
 
 # References
 
