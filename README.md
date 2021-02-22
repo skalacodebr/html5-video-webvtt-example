@@ -4,7 +4,7 @@ Sample HTML5 code that makes use of a [WebVTT](https://w3c.github.io/webvtt/) fi
 
 # Demo
 
-[http://brenopolanski.com/html5-video-webvtt-example/](http://brenopolanski.com/html5-video-webvtt-example/)
+[https://brenopolanski.github.io/html5-video-webvtt-example/](https://brenopolanski.github.io/html5-video-webvtt-example/)
 
 # References
 
